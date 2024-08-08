@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.svx": "markdown",
+    "my_test_framework.h": "c",
+    "test_framework.h": "c"
+  }
+}
